@@ -1,3 +1,1 @@
-fastapi
-uvicorn
-websockets
+gradio>=4.0.0
